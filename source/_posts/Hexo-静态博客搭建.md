@@ -1,5 +1,5 @@
 ---
-title: 静态博客搭建'
+title: 静态博客搭建
 toc: true
 date: 2020-07-11 22:19:31
 tags:
