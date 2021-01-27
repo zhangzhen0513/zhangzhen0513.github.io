@@ -103,5 +103,5 @@ deploy:
   type: git
   repo: git@github.com:zhangzhen0513/zhangzhen0513.github.io.git
   # repo: git@gitee.com:zhangzhen0513/zhangzhen0513.git
-  branch: blog
+  branch: master
   
