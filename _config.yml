@@ -13,7 +13,7 @@ timezone: Asia/Shanghai
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://zhenni-is-me.github.io
+url: https://zhangzhen0513.github.io
 root: /
 permalink: :year-:month-:day-:title/
 permalink_defaults:
@@ -99,6 +99,6 @@ theme: icarus
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: git@github.com:zhenni-is-me/zhenni-is-me.github.io.git
-  branch: master
+  repo: git@github.com:zhangzhen0513/zhangzhen0513.github.io.git
+  branch: blog
   
