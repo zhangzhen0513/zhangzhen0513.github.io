@@ -13,7 +13,9 @@ timezone: Asia/Shanghai
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://zhangzhen0513.github.io
+# url: https://zhangzhen0513.github.io
+# root: /
+url: https://zhangzhen0513.gitee.io/
 root: /
 permalink: :year-:month-:day-:title/
 permalink_defaults:
@@ -99,6 +101,7 @@ theme: icarus
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: git@github.com:zhangzhen0513/zhangzhen0513.github.io.git
+  # repo: git@github.com:zhangzhen0513/zhangzhen0513.github.io.git
+  repo: git@gitee.com:zhangzhen0513/zhangzhen0513.git
   branch: blog
   
