@@ -17,7 +17,7 @@ jobs:
       - name: Build Gitee Pages
         uses: yanglbme/gitee-pages-action@main
         with:
-          gitee-username: zhangzhen0513
+          gitee-username: 1090338201@qq.com
           gitee-password: ${{ secrets.GITEE_PASSWORD }}
-          gitee-repo: zhangzhen0513
+          gitee-repo: zhangzhen0513/zhangzhen0513
           branch: master
